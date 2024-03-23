@@ -1,0 +1,14 @@
+{
+  "name": "architectolibero",
+  "devDependencies": {
+    "@types/jest": "^24.0.15",
+    "lerna": "^3.16.4",
+    "prettier": "^1.18.2"
+  },
+  "author": "ArnoldoDach",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JoyceGoldner/architectolibero.git"
+  },
+  "version": "1.0.0"
+}
